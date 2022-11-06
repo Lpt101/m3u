@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1,AR: Daybreakers 2009
-https://192.168.1.100/SAGECOM_storage/usb2_1/Daybreakers (2009).avi
+smb://192.168.1.100/SAGECOM_storage/usb2_1/Daybreakers (2009).avi

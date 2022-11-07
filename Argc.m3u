@@ -1,6 +1,15 @@
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Cordoba
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DqEWfrg4e0I
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Rosario
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RaCJxAFcXLM
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Salta
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=flvGaUxfi_8
+
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Tucuman
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VgAOIAE6oZY
 

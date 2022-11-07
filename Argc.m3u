@@ -46,6 +46,15 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/NziC7meycqF518TdbhPA_x5hSAumBInjdle7lJjjIJijOwKQZyJw2yPcWLhsO_RBJ-oKaVsYNw=s88-c-k-c0x00ffffff-no-rj",IP Noticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hzAh28z_nUM
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-loTMLHrCVYY-cy_J8eRUJVbx5NQ3E1ULJDyTFEw=s88-c-k-c0x00ffffff-no-rj",Encuentro
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kOdsC54gohY
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jOvVdP8tRz-UEk-pDt9kxSf6VT3jQCD-XjqTp1A=s88-c-k-c0x00ffffff-no-rj",KZO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7XcXOybnyvY
+
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ETJ-2a897BsyhIASTieaQGnQkKW7LkpIENlTU=s88-c-k-c0x00ffffff-no-rj",France 24 Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU
 

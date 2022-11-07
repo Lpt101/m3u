@@ -52,12 +52,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Yl_PHHj3BmtwHqp8vUgVJZjA5DbMAyMIR8wFS=s88-c-k-c0x00ffffff-no-rj",DW Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RTjbYKBB828
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/UC2WTLqAREsl-yCW9k8NAjIvs1Iti2rrjWwVhmXely7PWjgXF2bfPgY-3-2Rf_CDmD608FE3eg=s88-c-k-c0x00ffffff-no-rj",adn40
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=k13334_t-hs
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9Dga26iijWOh9YWa8e4yUDOedqBuus530nhpzIqw=s88-c-k-c0x00ffffff-no-rj",Milenio Noticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=UWNlpWsNS4M
-
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/sZ1yE4e.png",MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 

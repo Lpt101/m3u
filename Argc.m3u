@@ -50,7 +50,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hzAh28z_nUM
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-loTMLHrCVYY-cy_J8eRUJVbx5NQ3E1ULJDyTFEw=s88-c-k-c0x00ffffff-no-rj",Encuentro
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667866882/ei/okxpY5KAKorgxASPw6_QCg/ip/2802%3A8010%3A4016%3A1500%3Ad8f3%3Abb4c%3A8c89%3A353a/id/kOdsC54gohY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ar/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOsGmN2LPEZ_NUDI26ypovyFFglzE-Fl2BO0ec99BnfjAiB13oUb40kHAOTfAxv8OV6NOEZCEJy-6sCaYYFhSk7bHQ%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kOdsC54gohY
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jOvVdP8tRz-UEk-pDt9kxSf6VT3jQCD-XjqTp1A=s88-c-k-c0x00ffffff-no-rj",KZO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7XcXOybnyvY

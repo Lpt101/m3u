@@ -79,13 +79,13 @@ http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/pRbp0eZ.png",LA 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",WoW Tv
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/oVlPh_zqjl-qcDu4AxTIndu9GfxXeBfH3TZH7u8IxY9qkIhPVeDeuiGxaXZVRxeOWQQo8Z3X=s88-c-k-c0x00ffffff-no-rj",WoW Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",Extrema TV
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",Los Simpson 24/7
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/U3WnbKn1r78enHRT1jJv1dIVYoHswH9CUbmX2COmrUofnrTKg7qHg6dVIB9xakkwXtsKnURxew=s88-c-k-c0x00ffffff-no-rj",Los Simpson 24/7
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RnYhPP8jYLc
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"

@@ -1,17 +1,8 @@
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Cordoba
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=zndCKyCI7cA
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Rosario
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RaCJxAFcXLM
-
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Salta
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fP3v6yP6Y0w
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Tucuman
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VgAOIAE6oZY
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Entretenimiento", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -26,7 +17,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=o8JBz0XFS_k
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/512px-C5N_2017_Alternate.svg.png" group-title="News",C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=k0K5FTGEo-k
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dbteiGt_t_4
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" group-title="News",Cronica HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw

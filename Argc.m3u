@@ -888,13 +888,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="Cicr23",JUSTICIA TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
 
-*********************************************** https://raw.githubusercontent.com/ednar33/newton/main/androtv.m3u *****************************************************
-
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
-
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", x
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
 
@@ -1042,73 +1035,8 @@ https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Usurpadora
 https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
 
-*************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
-
-**********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
-
-******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
-
-#EXTINF:-1 tvg-name="ABC Spark CA" group-title="ViX+",ABC (West)
-https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",ABC HD
-https://v-ny.mybtv.net/live/554/1280x720.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+",NBC (West)
-https://v-ca.mybtv.net/live/121/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",NBC
-https://v-ny.mybtv.net/live/548/1920x1080.m3u8
-
-#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="ViX+",CBS (West)
-https://v-ca.mybtv.net/live/162/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",CBS New York HD
-https://v-ny.mybtv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="ViX+",FOX 5 (West)
-https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="ViX+",FOX 5 WNYW
-https://v-ny.mybtv.net/live/550/1280x720.m3u8
-
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="ViX+",Telemundo LA (op2)
-https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO" group-title="ViX+",Telemundo NY (op2)
-https://v-ny.mybtv.net/live/659/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+",EstrellaTv LA (op2)
-https://v-la.mybtv.net/live/112/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+",EstrellaTv NY (op2)
-https://v-ny.mybtv.net/live/650/640x480.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+",EstrellaTv IN (op2)
-https://v-in.mybtv.net/live/845/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)" group-title="ViX+",Azteca America NY (op2)
-https://v-ny.mybtv.net/live/645/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+",Azteca America SD (op2)
-https://v-sd.mybtv.net/live/508/1920x1080.m3u8
-#EXTINF:-1 tvg-name="UNIMÁS" group-title="ViX+",Unimas NY (op2)
-https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+",Unimas LA (op2)
-https://v-la.mybtv.net/live/299/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+",Univision LA (op2)
-https://v-la.mybtv.net/live/178/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)" group-title="ViX+",Univision NY (op2)
-https://v-ny.mybtv.net/live/643/1280x720.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="ViX+",Univision MI (op2)
-https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
-
 #EXTINF:-1 tvg-name="" group-title="ViX+",UNIVISION
 http://71.187.29.54:8000/play/a07t/index.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas TJ
-https://v-sd.mybtv.net/live/497/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas (VIX)
-https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas -1 (VIX)
-https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas -2 (VIX)
-https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Foro TV (VIX)
-https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="" group-title="ViX+",N+ (VIX)
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Canal 5 (VIX)
-https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Canal 5 TJ
-https://v-sd.mybtv.net/live/486/1920x1080.m3u8
-

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (720p)
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="282" tvg-name="Garage TV" tvg-logo="https://www.m3u.cl/logo/282_Garage_TV.png", Garage TV  | AR
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR

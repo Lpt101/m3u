@@ -4,7 +4,7 @@
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Salta
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fP3v6yP6Y0w
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fP3v6yP6Y0w
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Entretenimiento", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -16,40 +16,40 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="News",A24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=o8JBz0XFS_k
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=o8JBz0XFS_k
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/512px-C5N_2017_Alternate.svg.png" group-title="News",C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dbteiGt_t_4
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dbteiGt_t_4
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" group-title="News",Cronica HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png" group-title="News",TN Todo Noticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="General",TV Pública
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YJluX1roRbE
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YJluX1roRbE
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu89T6OsGoCBgtJ4d4HeShoVMl4SATQBD715GJg58g=s48-c-k-c0x00ffffff-no-rj" group-title="News",LN+
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=IOSVORAZnRY
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=IOSVORAZnRY
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/NziC7meycqF518TdbhPA_x5hSAumBInjdle7lJjjIJijOwKQZyJw2yPcWLhsO_RBJ-oKaVsYNw=s88-c-k-c0x00ffffff-no-rj",IP Noticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hzAh28z_nUM
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hzAh28z_nUM
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_jOvVdP8tRz-UEk-pDt9kxSf6VT3jQCD-XjqTp1A=s88-c-k-c0x00ffffff-no-rj",KZO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7XcXOybnyvY
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7XcXOybnyvY
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ETJ-2a897BsyhIASTieaQGnQkKW7LkpIENlTU=s88-c-k-c0x00ffffff-no-rj",France 24 Español
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XDJPzMznAjU
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-Yl_PHHj3BmtwHqp8vUgVJZjA5DbMAyMIR8wFS=s88-c-k-c0x00ffffff-no-rj",DW Español
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RTjbYKBB828
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RTjbYKBB828
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/sZ1yE4e.png",MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN (1080p)
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bajo_techo_tv_do.png" group-title="Undefined",Bajo Techo TV
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AZMTV.ar" tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png" group-title="Undefined",AZM TV
+https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="General",ConstanzaTV
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-logo="https://i.imgur.com/jknmN8Y.png" group-title="Undefined",Megavisión

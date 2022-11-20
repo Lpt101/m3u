@@ -49,6 +49,8 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="General",ConstanzaTV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-logo="https://i.imgur.com/jknmN8Y.png" group-title="Undefined",Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="282" tvg-name="Garage TV" tvg-logo="https://www.m3u.cl/logo/282_Garage_TV.png", Garage TV  | AR

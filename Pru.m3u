@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="News",A24
-https://www.youtube.com/watch?v=o8JBz0XFS_k
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=o8JBz0XFS_k

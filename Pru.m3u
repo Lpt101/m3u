@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png" group-title="Undefined",CVisión TV (720p)
-https://stream.cvisiontv.com/cvision_stream.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-logo="https://i.imgur.com/jknmN8Y.png" group-title="Undefined",Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="282" tvg-name="Garage TV" tvg-logo="https://www.m3u.cl/logo/282_Garage_TV.png", Garage TV  | AR

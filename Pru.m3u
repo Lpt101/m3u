@@ -9,12 +9,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c00099104
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-2022, EL 13(HD)
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-2022, El 13(SD)
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-2022, EL Nueve(HD)
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-2022, El Nueve(SD)
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-2022, Canal 26(SD)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-2022, ARTS AND ENTERTAINMENT CHANNEL
@@ -23,8 +19,6 @@ https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
 https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTINF:-2022, DISCOVERY TURBO
 https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-2022, TVP
-https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-2022, ESPN 01
 https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-2022, ESPN 02
@@ -43,8 +37,6 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-2022, HISTORY 02
 https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
-#EXTINF:-2022, STAR CHANNEL
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_2499584=7-mp4a_64000_spa=22.m3u8
 #EXTINF:-2022, 24/7 Canal de Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-2022, MULTIVISION HD

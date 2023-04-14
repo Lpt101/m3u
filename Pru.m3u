@@ -1,24 +1,20 @@
 #EXTM3U
-#EXTINF:-2022, AMÉRICA(HD)
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-#EXTINF:-2022, TELEFE(HD)
-https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
-#EXTINF:-2022, Telefe Hits
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-2022, Telefe Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-2022, EL 13(HD)
-https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-2022, EL Nueve(HD)
-https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-2022, Canal 26(SD)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-2022, ARTS AND ENTERTAINMENT CHANNEL
 https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-2022, CONSTRUIR TV
 https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+#EXTINF:-2022, AMÉRICA
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-2022, TELEFE
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-2022, EL 13
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-2022, EL NUEVE
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-2022, DISCOVERY TURBO
 https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-2022, TVP
+https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-2022, ESPN 01
 https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-2022, ESPN 02
@@ -37,31 +33,5 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-2022, HISTORY 02
 https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
-#EXTINF:-2022, 24/7 Canal de Noticias
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-2022, MULTIVISION HD
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-2022, Canal 2 Telpin
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist.m3u8
-#EXTINF:-2022, Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-2022, Telemax
-https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-2022, Music Top
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-2022, LA 90 FM
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
-#EXTINF:-2022, WoW Tv
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-2022, Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-2022, ConstanzaTV
-https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
-#EXTINF:-2022, Megavisión
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-2022, Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-2022, Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-2022, Anime Zone
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-2022, STAR CHANNEL
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_2499584=7-mp4a_64000_spa=22.m3u8
